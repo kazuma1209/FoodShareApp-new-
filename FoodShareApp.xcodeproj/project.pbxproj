@@ -307,6 +307,7 @@
 			isa = PBXGroup;
 			children = (
 				A491AC9126564E990035CF7E /* UserSearchInTalkController.swift */,
+				A4E31061265ABC9C00E85715 /* ChatController.swift */,
 				A4E3105F265ABC6F00E85715 /* ConversationController.swift */,
 			);
 			path = Talk;
@@ -317,7 +318,6 @@
 			children = (
 				A477AEB7264678A200A646F3 /* UploadPostController.swift */,
 				22E7F04D263D8376007DA6C6 /* ImageSelectorController.swift */,
-				A4E31061265ABC9C00E85715 /* ChatController.swift */,
 			);
 			path = Media;
 			sourceTree = "<group>";
